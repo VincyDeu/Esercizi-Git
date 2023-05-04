@@ -1,0 +1,12 @@
+header .title {
+    color: rgb(156, 156, 207);
+  }
+  
+  main ul li {
+    background: rgb(101, 101, 80);
+  }
+  
+  main ul li {
+    background: rgba(48, 25, 181, 0.397);
+    list-style: square;
+  }
